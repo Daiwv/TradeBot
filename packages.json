@@ -2,10 +2,9 @@
 
 /**
  * Bittrex API wrapper class
- * @author Edson Medina <edsonmedina@gmail.com>
  */
 
-//namespace edsonmedina\bittrex;
+//namespace \bittrex;
 
 class Client
 {
